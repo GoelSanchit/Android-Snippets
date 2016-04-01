@@ -1,5 +1,4 @@
 package com.example.notificationexample;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.Notification;
