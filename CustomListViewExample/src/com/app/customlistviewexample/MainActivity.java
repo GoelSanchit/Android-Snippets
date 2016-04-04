@@ -1,7 +1,6 @@
 package com.app.customlistviewexample;
 
 import java.util.ArrayList;
-
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
 import com.mashape.unirest.http.Unirest;
